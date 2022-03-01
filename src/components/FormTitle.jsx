@@ -7,7 +7,7 @@ const Title = styled.h1`
   margin: 2rem 0;
 `;
 
-export function FormTitle() {
+export const FormTitle = () => {
     return (
         <Title>The to do list</Title>
     )

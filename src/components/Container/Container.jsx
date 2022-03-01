@@ -23,4 +23,4 @@ export const Container = () => {
       <ToDoList todos={todos} setTodos={setTodos} />
     </Box>
   );
-}
+};

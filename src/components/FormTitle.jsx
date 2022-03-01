@@ -8,7 +8,5 @@ const Title = styled.h1`
 `;
 
 export const FormTitle = () => {
-    return (
-        <Title>The to do list</Title>
-    )
-}
+  return <Title>The to do list</Title>;
+};

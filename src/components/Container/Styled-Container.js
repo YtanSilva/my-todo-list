@@ -7,4 +7,8 @@ export const Box = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  @media(max-width: 768px){
+    width: 100vw;
+    min-width: 375px;
+  }
 `;

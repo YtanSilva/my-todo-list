@@ -10,6 +10,10 @@ This project is my To Do List, a project developed to help in the day to day to 
 The project was build in React.js with styled components, using differents types of layout CSS as well grid and flexbox. Also this project has media queries adding the responsiveness for diferrents types of devices.
 <hr></hr>
 
+## tecnologies
+
+the main technologies used in this project were React, JavaScript and Styled-Components.
+
 ### Here's a preview of the project 
 <br>
 
@@ -17,7 +21,10 @@ The project was build in React.js with styled components, using differents types
 <br><br>
 This is the desktop version.
 <br><br>
-![the mobile version of to do list](https://github.com/ytancarlos/my-todo-list/blob/main/img/mobile.png)
+<p align="center">
+<img src="https://github.com/ytancarlos/my-todo-list/blob/main/img/mobile.png"  alt="the mobile version of to do list"/>
+
+</p>
 <br><br>
 This is the mobile version.
 <br>

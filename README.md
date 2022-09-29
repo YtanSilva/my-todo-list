@@ -10,7 +10,7 @@ This project is my To Do List, a project developed to help in the day to day to 
 The project was build in React.js with styled components, using differents types of layout CSS as well grid and flexbox. Also this project has media queries adding the responsiveness for diferrents types of devices.
 <hr></hr>
 
-## tecnologies
+## technologies
 
 the main technologies used in this project were React, JavaScript and Styled-Components.
 
